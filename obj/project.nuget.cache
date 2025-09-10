@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AEWn8XnUc90=",
+  "success": true,
+  "projectFilePath": "/Users/przemekp/Documents/GitHub/FolderSync/FolderSync.csproj",
+  "expectedPackageFiles": [
+    "/Users/przemekp/.nuget/packages/system.commandline/2.0.0-rc.1.25451.107/system.commandline.2.0.0-rc.1.25451.107.nupkg.sha512"
+  ],
+  "logs": []
+}
